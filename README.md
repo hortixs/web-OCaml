@@ -9,9 +9,10 @@ Ce projet est un petit serveur web en OCaml qui peut servir des fichiers statiqu
 shell ```ocamlc unix.cma main.ml -o server```
 
 3. Exécutez le serveur avec :
-shell ```./server```
+shell```./server
+```
 
-4. Accédez au serveur via un navigateur web à l'adresse `http://localhost:8080`.
+5. Accédez au serveur via un navigateur web à l'adresse `http://localhost:8080`.
 
 ## Fonctionnalités
 
